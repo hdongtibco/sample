@@ -12,6 +12,7 @@ public class SubDummy extends Dummy
     
     public String getWhatsit()
     {
+
         return m_whatsit;
     }
     
